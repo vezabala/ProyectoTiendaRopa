@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JhndxE5p7d3UOFtleJUSKfenAh80UOW7FuY0XxaLxOg=",
+  "Hash": "kL+k9tkjS/Ceco9eoA+HQ2nR0mUSIpfjouu8AUW1mtE=",
   "Source": "ProyectoTiendaRopa",
   "BasePath": "_content/ProyectoTiendaRopa",
   "Mode": "Default",
@@ -168,6 +168,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\5.png"
+    },
+    {
+      "Identity": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\wwwroot\\img\\6.png",
+      "SourceId": "ProyectoTiendaRopa",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\wwwroot\\",
+      "BasePath": "_content/ProyectoTiendaRopa",
+      "RelativePath": "img/6.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\6.png"
+    },
+    {
+      "Identity": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\wwwroot\\img\\7.png",
+      "SourceId": "ProyectoTiendaRopa",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\wwwroot\\",
+      "BasePath": "_content/ProyectoTiendaRopa",
+      "RelativePath": "img/7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\7.png"
     },
     {
       "Identity": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\wwwroot\\js\\site.js",

@@ -15,7 +15,7 @@ html {
 
 body {
     margin-bottom: 60px;
-    background-color: #7d7772;
+    background-color: #c2c695;
 }
 
 /*portada*/
@@ -119,7 +119,7 @@ body {
 .itemsnav {
     display: block;
     padding: 8px 35px;
-    color: whitesmoke;
+    color: black;
     text-decoration: none;
 }
 
@@ -135,7 +135,7 @@ body {
     }
 
     .itemsnav:hover {
-        color: aquamarine;
+        color: #b5ab80;
     }
 
 .navcolor {
