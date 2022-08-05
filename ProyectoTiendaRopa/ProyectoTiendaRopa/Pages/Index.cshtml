@@ -7,12 +7,26 @@
 @if(Model.productos.Count()>0){
    @foreach (var item in Model.productos)
             {
-                        <h3 class="tituloArticle">@Html.DisplayFor(m=> item.nombreProducto)</h3>
-                    <img class="imgprodcut" src= "~/img/@Html.DisplayFor(m=> item.imagen)" />
-                        <p class="miParrafo"><b>presentacion:</b> @Html.DisplayFor(m=> item.descripcion)</p>
+<div class="columna1p">
+<div class="container">
+        <div class="contenedor">
+            <div class="contenedor_tarjeta row">
+                <figure id="tarjeta">
+                    <img class="frontal" src= "~/img/@Html.DisplayFor(m=> item.imagen)" />
+                        <figcaption class="trasera">@Html.DisplayFor(m=> item.nombreProducto)
+                            <br/>
+                        <h6><b>presentacion:</b> @Html.DisplayFor(m=> item.descripcion)</h6>
+                            <br/>
                         <h3><span class="btn btn-primary">precio: $@Html.DisplayFor(m=> item.precio)</span></h3>
+                            <br/>
                         <h3><span class="btn btn-dark ">La quiero</span></h3>
-                         <h3><span class="btn btn-success">Leer mas</span></h3>
+                        </figcaption>
+                    </figure>
+</div>
+</div>
+</div>
+</div>
+
             }
 }
   else
