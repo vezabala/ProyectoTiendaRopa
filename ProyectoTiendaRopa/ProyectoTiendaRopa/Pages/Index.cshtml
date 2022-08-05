@@ -4,7 +4,35 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@if(Model.productos.Count()>0){
+   @foreach (var item in Model.productos)
+            {
+                <div class="product white-panel miPanel">
+                    <div class="product-info panel">
+                        <h3 class="tituloArticle">@Html.DisplayFor(m=> item.nombreProducto)</h3>
+                    </div>
+                    <img class="imgprodcut" src= "~/img/@Html.DisplayFor(m=> item.imagen)" />
+                    <div class="product-info panel">
+                        <p class="miParrafo"><b>presentacion:</b> @Html.DisplayFor(m=> item.descripcion)</p>
+                        <h3><span class="btn btn-primary">precio: $@Html.DisplayFor(m=> item.precio)</span></h3>
+                        
+                         <div class="row">
+                            <div class="col-sm-2 offset-sm-2">
+                                <h3><span class="btn btn-dark ">La quiero</span></h3>
+                            </div>
+                            <div class="col-sm-2 offset-sm-2">
+                                <h3><span class="btn btn-success">Leer mas</span></h3>
+                            </div>
+                     
+                        </div>
+                    </div>
+                </div>
+            }
+}
+  else
+{
+    <div>
+       <h1>Valla a la pestaña de productos para registrarlos</h1>
+     </div>
+}
+
