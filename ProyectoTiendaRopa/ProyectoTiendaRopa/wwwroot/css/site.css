@@ -1,18 +1,348 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background: linear-gradient(90deg, rgb(16, 113, 193), rgb(87, 207, 255) 92%, rgb(129, 234, 253) 100%);
+}
+
+/*portada*/
+
+.wrp {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+.portada {
+    width: 100%;
+    height: 100%;
+    background: url("portada.png");
+    background-attachment: fixed;
+}
+
+.contenido {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    background: rgba(0,0,11,0.6);
+}
+
+    .contenido .info {
+        width: 100%;
+        max-width: 600px;
+        text-align: center;
+    }
+
+        .contenido .info h1 {
+            color: #fff;
+            font-size: 70px;
+            text-shadow: 10px 10px 5px rgb(0, 0, 0);
+            margin-bottom: 25px;
+            letter-spacing: 1px;
+        }
+
+        .contenido .info a {
+            display: inline-block;
+            text-decoration: none;
+            font-size: 19px;
+            padding: 10px 25px;
+            color: #fff;
+            background: #4897C3;
+            border-radius: 50px;
+            margin-bottom: 40px;
+            border: 2px solid transparent;
+            transition: all 300ms ease;
+            letter-spacing: 0.5px;
+        }
+
+            .contenido .info a:hover {
+                background: #1fa7f0;
+            }
+
+    .contenido .logo {
+        width: 100%;
+        max-width: 600px;
+        text-align: right;
+    }
+
+        .contenido .logo img {
+            width: 40%;
+            height: 50%;
+        }
+
+.curveado {
+    position: absolute;
+    width: 100%;
+    bottom: -55px;
+}
+
+    .curveado img {
+        width: 100%;
+    }
+
+@media(max-width:768px) {
+    .contenido .info h1 {
+        font-size: 35px;
+    }
+}
+/*fin portada*/
+
+.foot {
+    text-align: center;
+    color: rgb(83, 80, 80);
+}
+
+.footer {
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
+    background: linear-gradient(90deg, rgb(9, 40, 211), rgb(87, 126, 255) 92%, rgb(129, 179, 253) 100%);
+    color: #cfcccc;
+}
+
+.itemsnav {
+    display: block;
+    padding: 8px 35px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+    .itemsnav:hover {
+        margin-top: 2px;
+        opacity: 5;
+        color: bisque;
+        /*Reflection*/
+        /*Glow*/
+        -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+        -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+        box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+    }
+
+    .itemsnav:hover {
+        color: aquamarine;
+    }
+
+.navcolor {
+    background: linear-gradient(90deg, rgb(9, 40, 211), rgb(87, 126, 255) 92%, rgb(129, 179, 253) 100%);
+}
+
+.divPadre {
+    width: 500px;
+    text-align: center;
+}
+
+.divHijo {
+    margin: 0px auto;
+}
+
+
+.valordefecto {
+    visibility: hidden;
+}
+
+.imgg {
+    padding: 0px;
+    max-width: 0px;
+    max-height: 0px;
+    font-size: 0px;
+    visibility: hidden;
+}
+
+/*Catalogo*/
+#products {
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.white-panel {
+    position: absolute;
+    background: white;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+    padding: 10px;
+}
+
+    .white-panel h1 {
+        font-size: 1em;
+    }
+
+        .white-panel h1 a {
+            color: #A92733;
+        }
+
+    .white-panel:hover {
+        box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+        margin-top: -5px;
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
+
+
+
+.imgprodcut {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+    .imgprodcut:hover {
+        opacity: 1;
+        -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+        -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+        -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+        box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+        -webkit-transform: rotate(-4deg);
+        -moz-transform: rotate(-4deg);
+        -o-transform: rotate(-4deg);
+    }
+
+.tituloArticle {
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+}
+
+.miPanel {
+    border: 2.6px solid rgb(104, 97, 97);
+    color: rgb(8, 8, 8);
+    height: 550px;
+}
+
+.miParrafo {
+    line-height: 100%;
+    font-family: cursive;
+}
+
+.tituloIndex {
+    text-align: center;
+}
+
+    .tituloIndex h1 {
+        color: #fff;
+        font-size: 70px;
+        text-shadow: 8px 7px 3px rgb(0, 0, 0);
+        margin-bottom: 25px;
+        letter-spacing: 1px;
+    }
+
+articleecolor {
+    background: linear-gradient(90deg, rgb(19, 124, 209), rgb(94, 186, 240) 92%, rgb(131, 213, 238) 100%);
+}
+/*index Crear*/
+.miCard {
+    background: linear-gradient(90deg, rgb(19, 124, 209), rgb(94, 186, 240) 92%, rgb(131, 213, 238) 100%);
+    padding: 1px 7px 30px 4px;
+}
+
+.miTable {
+    background: linear-gradient(90deg, rgb(19, 124, 209), rgb(94, 186, 240) 92%, rgb(131, 213, 238) 100%);
+}
+
+.tablePrncipal {
+    border: 0.2px dotted rgba(96, 87, 182, 0.808);
+}
+
+.cabecera {
+    background: linear-gradient(90deg, rgb(19, 124, 209), rgb(94, 186, 240) 92%, rgb(131, 213, 238) 100%);
+}
+
+.miCardCrear {
+    background: linear-gradient(90deg, rgb(19, 124, 209), rgb(94, 186, 240) 92%, rgb(131, 213, 238) 100%);
+    border: 0px solid rgba(96, 87, 182, 0.808);
+    padding: 0px 7px 0px 4px;
+}
+
+.miSubcolumnstext {
+    line-height: 100%;
+    font-family: cursive;
+    font-weight: 600;
+    font-size: 14px
+}
+
+.textHeader {
+    line-height: 100%;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 16px;
+    color: rgb(58, 10, 1);
+}
+
+/*crear*/
+.miLavel {
+    line-height: 100%;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 16px;
+    color: rgb(58, 10, 1);
+}
+
+.miInputCrear {
+    display: block;
+    width: 100%;
+    height: 38px;
+    padding: 7px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #1f0303;
+    background: linear-gradient(90deg, rgb(19, 117, 209), rgb(94, 174, 240) 92%, rgb(131, 177, 238) 100%);
+    border: 1px solid #10719e;
+    border-radius: 4px;
+}
+
+/*input imagen*/
+.file-select {
+    position: relative;
+    display: inline-block;
+}
+
+    .file-select::before {
+        background: linear-gradient(90deg, rgb(19, 117, 209), rgb(94, 174, 240) 92%, rgb(131, 177, 238) 100%);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 3px;
+        content: 'Seleccionar'; /* testo por defecto */
+        position: absolute;
+        width: 35.5%;
+        height: 30px;
+    }
+
+    .file-select input[type="file"] {
+        opacity: 0;
+        width: 200px;
+        height: 32px;
+        display: inline-block;
+    }
+
+#src-file1::before {
+    content: 'Seleccionar imagen';
+}
+
+#imgContacto img {
+    width: 200px;
+    height: 32px;
 }
