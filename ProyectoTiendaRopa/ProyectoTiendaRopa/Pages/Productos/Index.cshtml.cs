@@ -30,7 +30,7 @@ namespace ProyectoTiendaRopa.Pages.Productos
             string directorio = Directory.GetCurrentDirectory() + "\\wwwroot\\img";
             string validacionDirectorio = directorio + "\\" + imagen;
 
-            if (System.IO.Path.GetExtension(validacionDirectorio).ToLower() == ".png")
+            if (System.IO.Path.GetExtension(validacionDirectorio).ToLower() == ".png" || System.IO.Path.GetExtension(validacionDirectorio).ToLower() == ".jpg" || System.IO.Path.GetExtension(validacionDirectorio).ToLower() == ".gif")
             {
                 //Dado el caso, verifico que exista el archivo..
                 if (System.IO.File.Exists(validacionDirectorio))
