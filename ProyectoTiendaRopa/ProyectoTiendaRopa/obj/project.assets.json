@@ -1864,23 +1864,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ingeniero\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
+      "projectUniqueName": "D:\\estudio\\compensar.net\\Scrumb\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
       "projectName": "ProyectoTiendaRopa",
-      "projectPath": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
-      "packagesPath": "C:\\Users\\ingeniero\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\obj\\",
+      "projectPath": "D:\\estudio\\compensar.net\\Scrumb\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\estudio\\compensar.net\\Scrumb\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ingeniero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1940,7 +1940,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
