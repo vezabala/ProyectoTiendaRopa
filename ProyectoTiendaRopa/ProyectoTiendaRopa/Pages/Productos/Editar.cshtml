@@ -1,5 +1,5 @@
 ﻿@page
-@model ProyectoTiendaRopa.Pages.Productos.CrearModel
+@model ProyectoTiendaRopa.Pages.Productos.EditarModel
 @{
 }
 @if (Model.mensaje!=null)
@@ -11,12 +11,15 @@
 }
 <div class="card miCardCrear">
     <div class="card-header">
-        <h2 class="text-black-50">Crear un producto nuevo</h2>
+        <h2 class="text-black-50">Editar Producto</h2>
     </div>
 
     <div class="card-body">
         <form method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="productos.id" />
+
             <div class="container" style="padding:30px">
                 <div class="form-group">
                     <div class="row">
@@ -42,9 +45,9 @@
                     </div>
                 </div>
 
-                <div class="form-group miLavel">
+                <div class="form-group">
                     <div class="row">
-                        <div class="col-sm-2">
+                        <div class="col-sm-2 miLavel">
                             <label asp-for="productos.precio"></label>
                         </div>
                         <div class="col-sm-6">
@@ -54,14 +57,13 @@
                     </div>
                 </div>
 
-
-                 <div class="form-group">
+                <div class="form-group">
                     <div class="row">
                         <div class="col-sm-2 miLavel">
                             <label asp-for="productos.imagen"></label>
                         </div> 
                         <div class="col-sm-6 file-select" id="src-file1">
-                            <input type="file"  id="imgProducto"  asp-for="subirArchivo.imagen" class="miInputCrear"/>
+                            <input type="file" id="imgProducto" asp-for="subirArchivoEditar.imagen" class="miInputCrear"/>
                             <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
                               <script>
                                  $(document).ready(function() {
@@ -70,22 +72,20 @@
                                         let nombre = input.val().split("\\").pop().toLowerCase();
                                         if( input.val() != "" ){
                                             alert("Se cargo la imagen " + nombre + " correctamente");
-                                        }else{
-                                            alert("favor de cargar una imagen");
                                         }
                                     });
                                  });
                              </script>
-                            <input asp-for="productos.imagen" value="vaor defecto" class="valordefecto" />
+                            <input asp-for="productos.imagen" class="valordefecto" />
                         </div>
-                        <span asp-validation-for="subirArchivo.imagen" class="text-danger"></span>
+                        <span asp-validation-for="subirArchivoEditar.imagen" class="text-danger"></span>
                     </div>
                 </div>
 
                 <div class="form-group">
                     <div class="row">
                         <div class="col-sm-2 offset-sm-2">
-                            <input type="submit" value="Crear" class="btn btn-primary form-control" />
+                            <input type="submit" value="Editar" class="btn btn-primary form-control" />
                         </div>
                         <div class="col-sm-4">
                             <a asp-page="Index" class="btn btn-success form-control">Regresar</a>
@@ -97,4 +97,3 @@
         </form>
     </div>
 </div>
-
