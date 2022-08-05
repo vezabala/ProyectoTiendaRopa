@@ -1,20 +1,24 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
+using ProyectoTiendaRopa.datos;
+using ProyectoTiendaRopa.modelos;
 
 namespace ProyectoTiendaRopa.Pages
 {
     public class IndexModel : PageModel
     {
-        private readonly ILogger<IndexModel> _logger;
-
-        public IndexModel(ILogger<IndexModel> logger)
+        
+        private readonly ApplicationDbContext _contexto;
+        public IndexModel(ApplicationDbContext contexto)
         {
-            _logger = logger;
+            _contexto = contexto;
         }
 
-        public void OnGet()
+        public IEnumerable<Producto> productos { set; get; }
+        public async Task OnGet()
         {
-
+            productos = await _contexto.producto.ToListAsync();
         }
     }
 }

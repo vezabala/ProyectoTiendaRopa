@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj": {}
+    "C:\\Users\\Leonardo\\Documents\\tiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj": {}
   },
   "projects": {
-    "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj": {
+    "C:\\Users\\Leonardo\\Documents\\tiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo\\Documents\\tiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
         "projectName": "ProyectoTiendaRopa",
-        "projectPath": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
-        "packagesPath": "C:\\Users\\ingeniero\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\obj\\",
+        "projectPath": "C:\\Users\\Leonardo\\Documents\\tiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
+        "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leonardo\\Documents\\tiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ingeniero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
