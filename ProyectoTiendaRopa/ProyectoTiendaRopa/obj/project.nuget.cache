@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NvctLvHZAUnS/Qm5oNpnG08qo+BS76ajSDfwEKonTntZhJ456meIfKshhvGMcF5jImHLvOZwoPDYDJzKqxoMSQ==",
+  "dgSpecHash": "OuG2jdcjHyz76Gnd48aXeK+BKuOEtJOFIr5wxqsiXvjcC70wAGOoEG+g8p7c6w1gWL56uEaaOR8zlsLZGXyHIQ==",
   "success": true,
-  "projectFilePath": "D:\\git\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
+  "projectFilePath": "D:\\sitios web\\tienda-ropa\\ProyectoTiendaRopa\\ProyectoTiendaRopa\\ProyectoTiendaRopa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ingeniero\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ingeniero\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
