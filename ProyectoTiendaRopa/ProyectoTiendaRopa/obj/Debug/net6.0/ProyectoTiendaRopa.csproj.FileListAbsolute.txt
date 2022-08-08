@@ -1,0 +1,244 @@
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\appsettings.Development.json
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\appsettings.json
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.staticwebassets.runtime.json
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.exe
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.deps.json
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.runtimeconfig.json
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.pdb
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Humanizer.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.AssemblyReference.cache
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.AssemblyInfoInputs.cache
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.AssemblyInfo.cs
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.CoreCompileInputs.cache
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.MvcApplicationPartsAssemblyInfo.cache
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.RazorAssemblyInfo.cache
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.RazorAssemblyInfo.cs
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\staticwebassets.build.json
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\staticwebassets.development.json
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\bundle\ProyectoTiendaRopa.styles.css
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoTiendaRopa.bundle.scp.css
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.CopyComplete
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\refint\ProyectoTiendaRopa.dll
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.pdb
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.genruntimeconfig.cache
+D:\estudio\compensar.net\Scrumb\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ref\ProyectoTiendaRopa.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\appsettings.json
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.staticwebassets.runtime.json
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.exe
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.deps.json
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.runtimeconfig.json
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.pdb
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.RazorAssemblyInfo.cache
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.RazorAssemblyInfo.cs
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\bundle\ProyectoTiendaRopa.styles.css
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoTiendaRopa.bundle.scp.css
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.CopyComplete
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\refint\ProyectoTiendaRopa.dll
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.pdb
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Escritorio\Nueva carpeta (3)\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ref\ProyectoTiendaRopa.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\appsettings.json
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.staticwebassets.runtime.json
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.exe
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.deps.json
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.runtimeconfig.json
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.pdb
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.RazorAssemblyInfo.cache
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.RazorAssemblyInfo.cs
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\bundle\ProyectoTiendaRopa.styles.css
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoTiendaRopa.bundle.scp.css
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.CopyComplete
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\refint\ProyectoTiendaRopa.dll
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.pdb
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\tiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ref\ProyectoTiendaRopa.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\appsettings.json
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\appsettings.Development.json
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.staticwebassets.runtime.json
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.exe
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.deps.json
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.runtimeconfig.json
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\ProyectoTiendaRopa.pdb
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Humanizer.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.AssemblyReference.cache
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.AssemblyInfoInputs.cache
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.AssemblyInfo.cs
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.CoreCompileInputs.cache
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.MvcApplicationPartsAssemblyInfo.cache
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.RazorAssemblyInfo.cache
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.RazorAssemblyInfo.cs
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\staticwebassets.build.json
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\staticwebassets.development.json
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\bundle\ProyectoTiendaRopa.styles.css
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoTiendaRopa.bundle.scp.css
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.csproj.CopyComplete
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\refint\ProyectoTiendaRopa.dll
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.pdb
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ProyectoTiendaRopa.genruntimeconfig.cache
+D:\git\ProyectoTiendaRopa\ProyectoTiendaRopa\ProyectoTiendaRopa\obj\Debug\net6.0\ref\ProyectoTiendaRopa.dll

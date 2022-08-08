@@ -1,0 +1,66 @@
+﻿@page
+@model ProyectoTiendaRopa.Pages.Productos.IndexModel
+@{
+ViewData["Tiltle"] = "Lista de productos";
+}
+@if (Model.mensaje!=null)
+{
+  <div class="alert alert-warning alert-dismissible show" role="alert">
+   @Model.mensaje
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+}
+<div class="card miCardCrear">
+    <div class="card-header ">
+        <div class="row">
+            <div class="col-sm-6">
+                <h2 class="text-black-50">Listado de productos</h2>
+            </div>
+            <div class="col-sm-6">
+                <a asp-page="Crear" class="btn btn-primary">Crear nuevo producto</a>
+            </div>
+        </div>
+    </div>
+    <div class="card-body miCard">
+        <form method="post">
+        @if(Model.productos.Count()>0)
+        {
+            <br />
+            <br />
+            <table class="table table-striped tablePrncipal" >
+                <tr class="table cabecera" >
+                    <th class="textHeader">@Html.DisplayNameFor(m=> m.productos.First().id)</th>
+                    <th class="textHeader">@Html.DisplayNameFor(m=> m.productos.First().nombreProducto)</th>
+                    <th class="textHeader">@Html.DisplayNameFor(m=> m.productos.First().descripcion)</th>
+                    <th class="textHeader">@Html.DisplayNameFor(m=> m.productos.First().precio)</th>
+                    <th class="textHeader">Controles</th>
+                </tr>
+                @foreach(var item in Model.productos)
+                {
+                   <div class="imgg">@Html.DisplayFor(m=> item.imagen)</div>
+                    <tr class="miTable">
+                        <td class="miSubcolumnstext">@Html.DisplayFor(m=> item.id)</td>
+                        <td class="miSubcolumnstext">@Html.DisplayFor(m=> item.nombreProducto)</td>
+                        <td class="miSubcolumnstext">@Html.DisplayFor(m=> item.descripcion)</td>
+                        <td class="miSubcolumnstext">@Html.DisplayFor(m=> item.precio)</td>
+                        <td>
+                            <a asp-route-id= "@item.id" asp-page="Editar" 
+                            class="btn btn-success btnsm">Editar</a>
+
+                            <button asp-page-handler="Borrar" 
+                            asp-route-id="@item.id" asp-route-imagen="@item.imagen"
+                            onclick="return confirm('Esta seguro de borrar el producto?')" 
+                            class ="btn btn-danger btn-sm">Borrar</button>
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p class="miSubcolumnstext">No hay productos registrados</p>
+        }
+
+        </form>
+    </div>
+</div>
