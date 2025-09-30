@@ -17,6 +17,6 @@ namespace ProyectoTiendaRopa.modelos
         public int precio { get; set; }
 
         [Display(Name = "Imagen (Solo se acepta extencion .png)")]
-        public string imagen { get; set; }
+        public string? imagen { get; set; }
     }
 }
