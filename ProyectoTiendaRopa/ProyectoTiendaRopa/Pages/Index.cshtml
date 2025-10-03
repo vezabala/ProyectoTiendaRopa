@@ -18,7 +18,7 @@
                                 <br/>
                                 <h6>@Html.DisplayFor(m=> item.descripcion)</h6>
                                 <br/>
-                                <h5>Precio: $@Html.DisplayFor(m=> item.precio)</h5>
+                                <h5>Precio: $ @item.precio.ToString("N0")</h5>
                                 <br/>
                                 <h3><span class="btn btn-primary">Comprar</span></h3>
                             </figcaption>
@@ -32,7 +32,7 @@
   else
 {
     <div>
-       <h1>No existen productos</h1>
+       <h1>No existen productos!!!</h1>
        <p>Vaya a la pestaña de productos para registrarlos</p>
      </div>
 }
